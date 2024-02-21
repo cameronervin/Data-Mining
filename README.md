@@ -1,2 +1,2 @@
 # Data-Mining
-Projects and assignments from CS 73331 Data Mining
+Projects and assignments from OREM 7331 Data Mining
